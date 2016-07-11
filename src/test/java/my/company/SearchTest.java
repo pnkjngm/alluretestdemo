@@ -25,7 +25,7 @@ public class SearchTest {
     @Test
     public void searchTest() throws Exception {
         steps.openMainPage();
-        steps.search("Yandex QATools");
+        steps.search("iSteer QATools");
         steps.makeScreenshot();
         steps.quit();
     }

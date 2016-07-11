@@ -121,4 +121,3 @@ public class SimpleTest {
         return Files.readAllBytes(Paths.get(resource.toURI()));
     }
 }
-
